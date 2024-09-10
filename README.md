@@ -36,9 +36,9 @@ Welcome to my data analysis portfolio! I’m Marlene Prado, a data analyst with 
   - Project Management
 
 ## 4. Certifications and Courses
-- **CompTIA Security+**: [Certification Details](#)
+- **Data Analytics and Warehousing**: [Certification Details](#)
 - **Data Science Specialization**: Coursera
-- **Machine Learning**: Stanford University (Coursera)
+- **Machine Learning**: Machine Learning Academy
 
 ## 5. Contact Information
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
