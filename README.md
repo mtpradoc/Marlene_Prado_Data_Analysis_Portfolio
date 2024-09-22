@@ -41,6 +41,6 @@ Welcome to my data analysis portfolio! I’m Marlene Prado, a data analyst with 
 - **Machine Learning**: Machine Learning Academy
 
 ## 5. Contact Information
-- **Email**: [your.email@example.com](mailto:mtpradoc@gmail.com)
+- **Email**: [mtpradoc@gmail.com](mailto:mtpradoc@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mtpradoc)
 - **GitHub**: [GitHub Profile](https://www.github.com/mtpradoc)
