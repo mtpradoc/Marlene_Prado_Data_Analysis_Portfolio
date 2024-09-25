@@ -23,6 +23,12 @@ Welcome to my data analysis portfolio! I’m Marlene Prado, a data analyst with 
 - **Key Insights**: Detail the findings and results.
 - **Link to Code/Demo**: [GitHub Repository](#) or [Live Demo](#).
 
+### Project n: Global Video Game Sales Analysis
+- **Overview**: This project analyzes global video game sales data from Kaggle, focusing on sales trends over time, by genre, and by platform. Using Tableau, I visualized key insights into the performance of different game genres and platforms across years.
+- **Tools**: Tableau, Kaggle (CSV data), Data Visualization Techniques
+- **Key Insights**: The project visualized global sales trends over time, with genres color-coded for easy comparison. Filters were applied to analyze sales for specific platforms, such as PlayStation 1-4, and genre-wise sales comparisons revealed the top-performing genres across different years. These visualizations were then combined into an interactive dashboard, allowing for dynamic exploration of sales data by year, genre, and platform.
+- **Link to Code/Demo**:[GitHub Repository](https://github.com/mtpradoc/global-videogame-sales-analysis/blob/main/README.md)
+
 ## 3. Skills
 - **Technical Skills**:
   - Data Visualization: Tableau, Power BI
