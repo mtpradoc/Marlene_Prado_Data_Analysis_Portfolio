@@ -29,6 +29,17 @@ Welcome to my data analysis portfolio! I’m Marlene Prado, a data analyst with 
 - **Key Insights**: The project visualized global sales trends over time, with genres color-coded for easy comparison. Filters were applied to analyze sales for specific platforms, such as PlayStation 1-4, and genre-wise sales comparisons revealed the top-performing genres across different years. These visualizations were then combined into an interactive dashboard, allowing for dynamic exploration of sales data by year, genre, and platform.
 - **Link to Code/Demo**:[GitHub Repository](https://github.com/mtpradoc/global-videogame-sales-analysis/blob/main/README.md)
 
+### Project n: Global Video Game Sales - Year Bins and Sales Comparison
+- **Overview**: In this project, I created bins for year ranges in the video game sales dataset to analyze sales trends over time. The focus was on categorizing years, performing quick table calculations for percent of total global sales, and comparing global sales with EU sales.
+- **Tools**: Tableau, Data Binning, Calculations (Percent of Total, Custom Calculations)
+- **Key Insights**:
+    Year ranges were grouped into 5-year bins, transforming the numeric Year field into a categorical field.
+    Excluded null data to focus on sales from 1990 to 2015.
+    Created a quick table calculation to display the percentage of total global sales.
+    Built custom calculations to compare global sales with EU sales, showcasing the difference between the two.
+- **Link to Code/Demo**:[GitHub Repository](https://github.com/mtpradoc/global-videogame-sales-analysis/blob/main/README.md)
+
+
 ## 3. Skills
 - **Technical Skills**:
   - Data Visualization: Tableau, Power BI
