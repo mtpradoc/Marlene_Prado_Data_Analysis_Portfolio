@@ -41,6 +41,28 @@ Welcome to my data analysis portfolio! I’m Marlene Prado, a data analyst with 
     Built custom calculations to compare global sales with EU sales, showcasing the difference between the two.
 - **Link to Code/Demo**:[GitHub Repository](https://github.com/mtpradoc/global-videogame-sales-analysis/blob/main/README.md)
 
+### Project n: 
+- **Overview**: I have an excel in the demographics table with 10rows with columns employeeId, Nameof Employee, EmployeeAge, EmployeeGender. The table JobTitle, the employeeid, emloyeeName, jobTitle.. one of the rows is missing its employeeId with 11 rows. Salary table has EmployeeID and EmployeeSalary with only 7 rows. we are going to do the joins in tableau, if we understand it in sql it is almost the same in tableau. Ipload the excel in tableau. Tableau. in tableu we bring demographics and choose a join that we are going to use, we bring the jobtitle table .. it is giving a visualization of the types of visualizations. lets see each of the joins left, right, inner, and full outter. lets go inner join... then we see that only the items that match employeeid are brought but one of the while making employeeid is equal employeeid in both tables. we can do the right join, now we can see the all the info from job table. in the outter join using employeeid , it produces 2 rows. left join we can see demographics complete rows and jobtitle only the info that matches. Now we use employee name in both tables demographics and jobtable. Now we bring the demographics table joined with jobtitle and salary table( joined on employee_id). Demographics + joins demo. we have the dimensions and measures. for columns we ue name of employee and for rows sum(employee salary), mark color for sum of employee salary.
+- **Key Insights**:
+    Year ranges were grouped into 5-year bins, transforming the numeric Year field into a categorical field.
+    Excluded null data to focus on sales from 1990 to 2015.
+    Created a quick table calculation to display the percentage of total global sales.
+    Built custom calculations to compare global sales with EU sales, showcasing the difference between the two.
+- **Link to Code/Demo**:[GitHub Repository](https://github.com/mtpradoc/global-videogame-sales-analysis/blob/main/README.md)
+
+### Project 4: Employee Demographics and Salary Analysis with Joins
+
+- **Overview**: This project demonstrates the use of joins in Tableau by combining multiple tables (Demographics, Job Title, and Salary) from an Excel file. The project focuses on understanding different types of joins—Inner, Left, Right, and Full Outer—and their impact on the dataset, mimicking SQL-like joins in Tableau to analyze employee demographics and salary data.
+
+- **Tools Used**: Tableau, Excel
+
+- **Key Insights**:
+  - Explored different join types (Inner, Left, Right, and Full Outer) using the `EmployeeID` field.
+  - Analyzed how different joins affect the resulting dataset, such as matching records and missing data.
+  - Joined tables to consolidate employee demographics, job titles, and salaries into a single view.
+  - Visualized the total salary per employee by creating a simple bar chart with `Employee Name` on columns and `Sum of Employee Salary` on rows, using colors to differentiate salary totals.
+
+- **Link to Code/Demo**: [GitHub Repository](#)
 
 ## 3. Skills
 - **Technical Skills**:
