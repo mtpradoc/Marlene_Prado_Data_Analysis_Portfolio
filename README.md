@@ -39,7 +39,7 @@ Welcome to my data analysis portfolio! I’m Marlene Prado, a data analyst with 
     Excluded null data to focus on sales from 1990 to 2015.
     Created a quick table calculation to display the percentage of total global sales.
     Built custom calculations to compare global sales with EU sales, showcasing the difference between the two.
-- **Link to Code/Demo**:[GitHub Repository](https://github.com/mtpradoc/global-videogame-sales-analysis/blob/main/README.md)
+- **Link to Code/Demo**:[GitHub Repository](https://github.com/mtpradoc/global-videogame-sales-analysis/)
 
 
 ### Project 4: Employee Demographics and Salary Analysis with Joins
@@ -54,7 +54,32 @@ Welcome to my data analysis portfolio! I’m Marlene Prado, a data analyst with 
   - Joined tables to consolidate employee demographics, job titles, and salaries into a single view.
   - Visualized the total salary per employee by creating a simple bar chart with `Employee Name` on columns and `Sum of Employee Salary` on rows, using colors to differentiate salary totals.
 
+- **Link to Code/Demo**: [GitHub Repository](https://github.com/mtpradoc/employee-joins-analysis)
+
+---
+
+### Project 5: Seattle Airbnb Data Analysis
+
+- **Overview**: This project analyzes Airbnb listings in Seattle using data from 2016. The dataset includes listings, reviews, and calendar data. I performed several joins and created visualizations in Tableau to explore pricing, location, and trends that impact Airbnb profitability.
+
+- **Tools Used**: Tableau, Excel (Airbnb Dataset)
+
+- **Key Insights**:
+  - **Price by Zipcode**: Analyzed the average price of Airbnb listings by zipcode to identify the most expensive areas. This helps determine where to buy property for Airbnb rentals.
+  - **Price per Zipcode Map**: Created a map visualization showing average prices for each zipcode, colored and labeled to highlight areas with the highest rental prices.
+  - **Revenue per Year**: Analyzed Airbnb revenue trends over the weeks of 2016 to determine the best time to list properties.
+  - **Average Price per Bedroom**: Examined how the number of bedrooms affects price, showing that one-bedroom properties are performing well.
+  - **Distinct Count of Bedroom Listings**: Filtered out null and zero-bedroom listings and counted distinct bedroom listings to assess property availability by size.
+  
+- **Visualizations**:
+  1. **Price by Zipcode**: A bar chart showing average Airbnb prices across Seattle’s zip codes.
+  2. **Price per Zipcode Map**: A map view of Seattle with zip codes colored by average price, helping to identify the most lucrative areas for Airbnb.
+  3. **Revenue per Year**: A line chart of revenue trends across weeks in 2016, helping identify the best times to list properties.
+  4. **Average Price per Bedroom**: A bar chart displaying average Airbnb prices based on the number of bedrooms.
+  5. **Distinct Count of Bedroom Listings**: A count of Airbnb listings by the number of bedrooms.
+
 - **Link to Code/Demo**: [GitHub Repository](#)
+
 
 ## 3. Skills
 - **Technical Skills**:
