@@ -78,7 +78,7 @@ Welcome to my data analysis portfolio! I’m Marlene Prado, a data analyst with 
   4. **Average Price per Bedroom**: A bar chart displaying average Airbnb prices based on the number of bedrooms.
   5. **Distinct Count of Bedroom Listings**: A count of Airbnb listings by the number of bedrooms.
 
-- **Link to Code/Demo**: [GitHub Repository](#)
+- **Link to Code/Demo**: [GitHub Repository](https://github.com/mtpradoc/seattle-airbnb-analysis)
 
 
 ## 3. Skills
