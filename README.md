@@ -102,7 +102,7 @@ Welcome to my data analysis portfolio! I’m Marlene Prado, a data analyst with 
     - Education Levels: A large proportion of the students hold High School / Some College, indicating that many are seeking to further their education or upskill for better career opportunities..
     - Diversity: The dataset highlighted a majority of students identifying as White, while 37.23% of applicants identify as BIPOC+ (Black, Indigenous, People of Color, and other minorities), showcasing a relatively diverse group applying to the program.
 
-- **Link to Code/Demo**: GitHub Repository: [Your GitHub Link](https://github.com/mtpradoc/student-demographics-analysis-tableau)
+- **Link to Code/Demo**: GitHub Repository: [GitHub Repository](https://github.com/mtpradoc/student-demographics-analysis-tableau)
 
 ---
 ## 3. Skills
