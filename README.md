@@ -4,7 +4,9 @@
 Welcome to my data analysis portfolio! I’m Marlene Prado, a data analyst with a passion for transforming data into actionable insights. With a background in IT, data engineering, and cybersecurity, I leverage my skills to solve complex problems and drive decision-making. My expertise includes data visualization, statistical analysis, and machine learning.
 
 # 2. Key Projects
----
+
+![da_image](https://github.com/user-attachments/assets/f8b4b8aa-286a-4cb1-b153-8cf7c7500ba2)
+
 ### Project 1: Bike Sales Visualization with Google Sheets
 - **Overview**: This project analyzes bike sales data, focusing on customer demographics, commuting habits, and purchasing behaviors. The analysis was done using Google Sheets to clean and organize the data, create visualizations, and build an interactive dashboard.
 - **Tools Used**: Google sheets, Pivot tables and Dashboards
