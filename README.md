@@ -19,17 +19,23 @@ Welcome to my data analysis portfolio! I’m Marlene Prado, a data analyst with 
 - **Key Insights**: Share the key takeaways and outcomes.
 - **Link to Code/Demo**: [GitHub Repository](#) or [Live Demo](#).
 
+---
+
 ### Project 3: [Project Title]
 - **Overview**: Explain the project and its objectives.
 - **Tools Used**: List the tools and technologies used.
 - **Key Insights**: Detail the findings and results.
 - **Link to Code/Demo**: [GitHub Repository](#) or [Live Demo](#).
 
+---
+
 ### Project n: Global Video Game Sales Analysis
 - **Overview**: This project analyzes global video game sales data from Kaggle, focusing on sales trends over time, by genre, and by platform. Using Tableau, I visualized key insights into the performance of different game genres and platforms across years.
 - **Tools**: Tableau, Kaggle (CSV data), Data Visualization Techniques
 - **Key Insights**: The project visualized global sales trends over time, with genres color-coded for easy comparison. Filters were applied to analyze sales for specific platforms, such as PlayStation 1-4, and genre-wise sales comparisons revealed the top-performing genres across different years. These visualizations were then combined into an interactive dashboard, allowing for dynamic exploration of sales data by year, genre, and platform.
 - **Link to Code/Demo**:[GitHub Repository](https://github.com/mtpradoc/global-videogame-sales-analysis/blob/main/README.md)
+
+---
 
 ### Project n: Global Video Game Sales - Year Bins and Sales Comparison
 - **Overview**: In this project, I created bins for year ranges in the video game sales dataset to analyze sales trends over time. The focus was on categorizing years, performing quick table calculations for percent of total global sales, and comparing global sales with EU sales.
@@ -41,6 +47,7 @@ Welcome to my data analysis portfolio! I’m Marlene Prado, a data analyst with 
     Built custom calculations to compare global sales with EU sales, showcasing the difference between the two.
 - **Link to Code/Demo**:[GitHub Repository](https://github.com/mtpradoc/global-videogame-sales-analysis/)
 
+---
 
 ### Project 4: Employee Demographics and Salary Analysis with Joins
 
@@ -80,6 +87,7 @@ Welcome to my data analysis portfolio! I’m Marlene Prado, a data analyst with 
 
 - **Link to Code/Demo**: [GitHub Repository](https://github.com/mtpradoc/seattle-airbnb-analysis)
 
+---
 
 ## 3. Skills
 - **Technical Skills**:
