@@ -105,6 +105,11 @@ Welcome to my data analysis portfolio! I’m Marlene Prado, a data analyst with 
 - **Link to Code/Demo**: GitHub Repository: [GitHub Repository](https://github.com/mtpradoc/student-demographics-analysis-tableau)
 
 ---
+
+### Project 7: Sales Report
+- **Overview**: 
+- **Link to Code/Demo**: [Github Repository]()
+---
 ## 3. Skills
 - **Technical Skills**:
   - Data Visualization: Tableau, Power BI
