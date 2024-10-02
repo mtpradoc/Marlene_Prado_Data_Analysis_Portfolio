@@ -97,13 +97,12 @@ Welcome to my data analysis portfolio! I’m Marlene Prado, a data analyst with 
 - **Tools Used**: Tableau, Google Sheets, CSV
 
 - **Key Insights**:
-Employment Trends: Most applicants were either employed full-time or part-time, with a smaller percentage marked as unemployed.
-Income Distribution: The income levels of the applicants were spread across various brackets, with a significant portion in the lower-income ranges, indicating a need for career upskilling.
-Education Levels: A large proportion of the applicants held a bachelor's degree or higher, while others had completed some college or held associate degrees.
-Diversity: The dataset highlighted a majority of applicants identifying as White or Hispanic/Latina, showcasing a relatively diverse group applying for the program.
+    - Employment Trends: 30% of the students are unemployed, indicating a potential need for career development and skill-building opportunities.
+    - Income Distribution: The income levels of the students were spread across various brackets, with a significant portion in the lower-income ranges, indicating a need for career upskilling.
+    - Education Levels: A large proportion of the students hold High School / Some College, indicating that many are seeking to further their education or upskill for better career opportunities..
+    - Diversity: The dataset highlighted a majority of students identifying as White, while 37.23% of applicants identify as BIPOC+ (Black, Indigenous, People of Color, and other minorities), showcasing a relatively diverse group applying to the program.
 
 - **Link to Code/Demo**: GitHub Repository: [Your GitHub Link]
-Tableau Dashboard: [Tableau Public Link (if applicable)]
 
 ---
 ## 3. Skills
