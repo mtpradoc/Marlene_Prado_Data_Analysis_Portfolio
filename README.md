@@ -91,6 +91,21 @@ Welcome to my data analysis portfolio! I’m Marlene Prado, a data analyst with 
 
 ---
 
+### Project 6: Student Demographics Analysis Using Tableau
+- **Overview**: This project analyzes the Tech Moms Application Data to uncover key insights into the demographics of applicants for the Tech Moms program. The goal was to identify trends in employment status, education levels, household income, and diversity within the applicant pool. Tableau was used to create visualizations and generate insights based on the provided dataset.
+
+- **Tools Used**: Tableau, Google Sheets, CSV
+
+- **Key Insights**:
+Employment Trends: Most applicants were either employed full-time or part-time, with a smaller percentage marked as unemployed.
+Income Distribution: The income levels of the applicants were spread across various brackets, with a significant portion in the lower-income ranges, indicating a need for career upskilling.
+Education Levels: A large proportion of the applicants held a bachelor's degree or higher, while others had completed some college or held associate degrees.
+Diversity: The dataset highlighted a majority of applicants identifying as White or Hispanic/Latina, showcasing a relatively diverse group applying for the program.
+
+- **Link to Code/Demo**: GitHub Repository: [Your GitHub Link]
+Tableau Dashboard: [Tableau Public Link (if applicable)]
+
+---
 ## 3. Skills
 - **Technical Skills**:
   - Data Visualization: Tableau, Power BI
