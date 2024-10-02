@@ -5,7 +5,7 @@ Welcome to my data analysis portfolio! I’m Marlene Prado, a data analyst with 
 
 # 2. Key Projects
 
-
+![da_image](https://github.com/user-attachments/assets/d42dee10-898d-4edf-a9a0-13f5633460f1)
 
 ### Project 1: Bike Sales Visualization with Google Sheets
 - **Overview**: This project analyzes bike sales data, focusing on customer demographics, commuting habits, and purchasing behaviors. The analysis was done using Google Sheets to clean and organize the data, create visualizations, and build an interactive dashboard.
