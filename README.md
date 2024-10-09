@@ -20,7 +20,7 @@ Welcome to my data analysis portfolio! I’m Marlene Prado, a data analyst with 
 - **Overview**: This project analyzes Kickstarter campaign data, focusing on campaign success rates, backers, and funding patterns. The analysis involved cleaning and transforming the data, creating new columns, and building visualizations using pivot tables and histograms to uncover insights about successful campaigns.
 - **Tools Used**: Google Sheets, Pivot Tables, Histograms, Data Transformation
 - **Key Insights**: The analysis includes a distribution of success rates based on campaign length, success rate by pledge goal range, top-performing categories by success rate, backers versus category trends, and insights into the best time and day to launch a campaign. These visualizations provide valuable data-driven recommendations for optimizing Kickstarter campaigns.
-- **Link to Code/Demo**: [GitHub Repository](#)
+- **Link to Code/Demo**: [GitHub Repository](https://github.com/mtpradoc/kickstarter_campaign_analysis_google_sheets)
 
 ---
 
