@@ -1,7 +1,7 @@
 # Marlene Prado - Data Analysis Portfolio
 
 # 1. Introduction
-Welcome to my data analysis portfolio! I’m Marlene Prado, a data analyst with a passion for transforming data into actionable insights. With a background in IT, data engineering, and cybersecurity, I leverage my skills to solve complex problems and drive decision-making. My expertise includes data visualization, statistical analysis, and machine learning.
+Welcome to my data analysis portfolio! I’m Marlene Prado, a data analyst and engineer with a passion for transforming data into actionable insights. With a background in IT, data engineering, and cybersecurity, I leverage my skills to solve complex problems and drive decision-making. My expertise includes data visualization, statistical analysis, and machine learning.
 
 # 2. Key Projects
 
