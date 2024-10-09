@@ -106,10 +106,29 @@ Welcome to my data analysis portfolio! I’m Marlene Prado, a data analyst with 
 
 ---
 
+### Project 6: Student Demographics Analysis Using Power BI
+- **Overview**: This project analyzes the Tech Moms Application Data to uncover key insights into the demographics of applicants for the Tech Moms program. The goal was to identify trends in employment status, education levels, household income, and diversity within the applicant pool. Power BI was used to create visualizations and generate insights based on the provided dataset.
+
+- **Tools Used**: Power BI, Google Sheets, CSV
+
+- **Key Insights**:
+    - **Employment Trends**: 30% of the students are unemployed, indicating a potential need for career development and skill-building opportunities.
+    - **Income Distribution**: The income levels of the students were spread across various brackets, with a significant portion in the lower-income ranges, indicating a need for career upskilling.
+    - **Education Levels**: A large proportion of the students hold High School / Some College, indicating that many are seeking to further their education or upskill for better career opportunities.
+    - **Diversity**: The dataset highlighted a majority of students identifying as White, while 37.23% of applicants identify as BIPOC+ (Black, Indigenous, People of Color, and other minorities), showcasing a relatively diverse group applying to the program.
+
+- **Link to Code/Demo**: [GitHub Repository](#)
+
+
 ### Project 7: Sales Report
 - **Overview**: 
 - **Link to Code/Demo**: [Github Repository]()
+
 ---
+
+### Project 8: 
+
+
 ## 3. Skills
 - **Technical Skills**:
   - Data Visualization: Tableau, Power BI
