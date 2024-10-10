@@ -24,15 +24,7 @@ Welcome to my data analysis portfolio! I’m Marlene Prado, a data analyst and e
 
 ---
 
-### Project 3: [Project Title]
-- **Overview**: Explain the project and its objectives.
-- **Tools Used**: List the tools and technologies used.
-- **Key Insights**: Detail the findings and results.
-- **Link to Code/Demo**: [GitHub Repository](#) or [Live Demo](#).
-
----
-
-### Project n: Global Video Game Sales Analysis
+### Project 3: Global Video Game Sales Analysis
 - **Overview**: This project analyzes global video game sales data from Kaggle, focusing on sales trends over time, by genre, and by platform. Using Tableau, I visualized key insights into the performance of different game genres and platforms across years.
 - **Tools**: Tableau, Kaggle (CSV data), Data Visualization Techniques
 - **Key Insights**: The project visualized global sales trends over time, with genres color-coded for easy comparison. Filters were applied to analyze sales for specific platforms, such as PlayStation 1-4, and genre-wise sales comparisons revealed the top-performing genres across different years. These visualizations were then combined into an interactive dashboard, allowing for dynamic exploration of sales data by year, genre, and platform.
@@ -40,7 +32,7 @@ Welcome to my data analysis portfolio! I’m Marlene Prado, a data analyst and e
 
 ---
 
-### Project n: Global Video Game Sales - Year Bins and Sales Comparison
+### Project 4: Global Video Game Sales - Year Bins and Sales Comparison
 - **Overview**: In this project, I created bins for year ranges in the video game sales dataset to analyze sales trends over time. The focus was on categorizing years, performing quick table calculations for percent of total global sales, and comparing global sales with EU sales.
 - **Tools**: Tableau, Data Binning, Calculations (Percent of Total, Custom Calculations)
 - **Key Insights**:
@@ -52,7 +44,7 @@ Welcome to my data analysis portfolio! I’m Marlene Prado, a data analyst and e
 
 ---
 
-### Project 4: Employee Demographics and Salary Analysis with Joins
+### Project 5: Employee Demographics and Salary Analysis with Joins
 
 - **Overview**: This project demonstrates the use of joins in Tableau by combining multiple tables (Demographics, Job Title, and Salary) from an Excel file. The project focuses on understanding different types of joins—Inner, Left, Right, and Full Outer—and their impact on the dataset, mimicking SQL-like joins in Tableau to analyze employee demographics and salary data.
 
@@ -107,7 +99,7 @@ Welcome to my data analysis portfolio! I’m Marlene Prado, a data analyst and e
 
 ---
 
-### Project 6: Student Demographics Analysis Using Power BI
+### Project 7: Student Demographics Analysis Using Power BI
 - **Overview**: This project analyzes the Tech Moms Application Data to uncover key insights into the demographics of applicants for the Tech Moms program. The goal was to identify trends in employment status, education levels, household income, and diversity within the applicant pool. Power BI was used to create visualizations and generate insights based on the provided dataset.
 
 - **Tools Used**: Power BI, Google Sheets, CSV
@@ -121,7 +113,7 @@ Welcome to my data analysis portfolio! I’m Marlene Prado, a data analyst and e
 - **Link to Code/Demo**: [GitHub Repository](#)
 
 
-### Project 7: Sales Report
+### Project 8: Sales Report using PowerBI
 - **Overview**: 
 - **Link to Code/Demo**: [Github Repository]()
 
